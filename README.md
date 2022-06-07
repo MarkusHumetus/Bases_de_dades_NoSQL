@@ -5,7 +5,10 @@ Exercises to learn and practice to work with **non-relational or not-only relati
 
 ## Getting Started
 The Jupyter Notebook was run in Python3.7 and next libraries were installed specifically for the use of this tipe of DDBB:
-pymongo
+pymongo: driver for DDBB (Motor could be used as alternative)
+dnspython: to use cloud version 
+
+Take care to change password and name of the DDBB for the connection text adress.
 
 
 One must be logged in the MongoDB web and install: 
