@@ -12,7 +12,7 @@ The Jupyter Notebook was run in **Python3.7** and next libraries were installed 
 Take care to change password and name of the DDBB for the connection text adress.
 
 One must be logged in the MongoDB service (free account) and install: 
-1. The **MongoDB Community Server**(version 5.0.9 installed for Windows) which should include MOngoDB Comapss.
+1. The **MongoDB Community Server**(version 5.0.9 installed for Windows) which should include MongoDB Comapss.
 
 
 There is also the file [requirements.txt](https://github.com/MarkusHumetus/Bases_de_dades_NoSQL/blob/main/requirements.txt) that include all libraries installed in the environment used to run the Jupyter Notebook. 
