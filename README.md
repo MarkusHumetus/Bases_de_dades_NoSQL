@@ -1,4 +1,4 @@
-# Non-relational or not-only-relational Data Bases (Bases_de_dades_NoSQL)
+# Non-relational and not-only-relational Data Bases
 
 ## Objectives
 Exercises to learn and practice to work with **non-relational or not-only relational DDBB**. This exercise is part of a full course composed by 15 differnt sprints to adquire the skills to start a career as Data Science. The course is taught in person at the ITAcademy from Barcelona Activa (January- July 2022). The work in this reposirory correspond to the 14th sprint of the course.
