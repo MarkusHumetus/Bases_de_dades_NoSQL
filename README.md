@@ -15,8 +15,8 @@ One must be logged in the MongoDB service (free account) and install:
 1. The **MongoDB Community Server**(version 5.0.9 installed for Windows) which should include MOngoDB Comapss.
 
 
-There is also the file requirements.txt that include all libraries installed in the environment used to run the Jupyter Notebook. 
+There is also the file [requirements.txt](https://github.com/MarkusHumetus/Bases_de_dades_NoSQL/blob/main/requirements.txt) that include all libraries installed in the environment used to run the Jupyter Notebook. 
 
 ## Contact Info
-Please, if any comment, doubt,... contact me by email to marc.humet.datascience@gmail.com
-
+Please, if any comment, doubt,... feel free to contact me by email to marc.humet.datascience@gmail.com
+I will answer as soon as I can.
