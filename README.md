@@ -2,7 +2,7 @@
 
 ## Objectives
 
-Exercises to learn and train working **non-relational or not-only relational DDBB** in Python. This exercise is part of a full course composed by 15 differnt sprints to adquire the skills to start a career as Data Science. The course is taught in person at the ITAcademy from Barcelona Activa (January- July 2022). The work in this reposirory correspond to the 14th sprint of the course.
+Exercises to learn and train working **non-relational or not-only relational DDBB** in Python. This exercise is part of a full course composed by 15 differnt sprints to adquire the skills to start a career as Data Science. The course is taught in person at the ITAcademy from Barcelona Activa (January- July 2022). The work in this reposirory correspond to the 14th sprint of the course and involves creation, manipulation and searches in the **MongoDB data base**.
 
 ## Getting Started
 
